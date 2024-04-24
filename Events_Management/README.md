@@ -4,6 +4,7 @@ Dự án được viết trong khoảng thời gian thi kỹ năng nghề cấp 
 
 ## Run Project
 
+composer install
 php artisan migrate
 php artisan serve
 
